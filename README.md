@@ -38,15 +38,15 @@ https://docs.google.com/spreadsheets/d/1d3o5DZ5SNKctVLCXlURhV2PM1qucIeUgbgAykBQ8
 https://docs.google.com/spreadsheets/d/1d3o5DZ5SNKctVLCXlURhV2PM1qucIeUgbgAykBQ83jw/edit#gid=1385202560
 
 ## ER図
-https://cacoo.com/diagrams/y9RGKKS4lKelGtCA/C351C?useTemplate=true&reload_rt=1576740437610_0
+https://cacoo.com/diagrams/y9RGKKS4lKelGtCA/C351C
 
 ## 画面推移図
-https://cacoo.com/diagrams/y9RGKKS4lKelGtCA/88CA9?useTemplate=true&reload_rt=1576740437610_0
+https://cacoo.com/diagrams/y9RGKKS4lKelGtCA/88CA9
 
 ## 画面ワイヤーフレーム
 https://docs.google.com/spreadsheets/d/1d3o5DZ5SNKctVLCXlURhV2PM1qucIeUgbgAykBQ83jw/edit#gid=1679166445
 
-https://cacoo.com/diagrams/y9RGKKS4lKelGtCA/1B3EC?useTemplate=true&reload_rt=1576740437610_0
+https://cacoo.com/diagrams/y9RGKKS4lKelGtCA/1B3EC
 
 ## 使用Gem
 - kaminari
